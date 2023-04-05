@@ -1,4 +1,4 @@
-<h1 align="center">Ultimate Django3.2 Template</h1>
+<h1 align="center">Ultimate Django4.2 Template</h1>
 <h3 align="center">Just a big starting point for any backend project</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -40,9 +40,9 @@ you can watch this video to know how you can use this repo
 # Repo Features
 <ul>
   <li>
-       <strong>Latest LTS Django3.2</strong>        
+       <strong>Latest LTS Django4.2</strong>        
   </li>
- <p>Latest LTS included 3.2.x and needed requirements</p>
+ <p>Latest LTS included 4.2.x and needed requirements</p>
  <li>
        <strong>Git</strong>        
   </li>
@@ -146,7 +146,7 @@ these commands for PowerShell if you want.
 #### Clone this repo anywhere you want and move into the directory:
 
 ```sh
-git clone https://github.com/AliBigdeli/Ultimate-Django3.2-Template.git
+git clone https://github.com/AliBigdeli/Ultimate-Django4.2-Template.git
 ```
 
 #### Enviroment Varibales are included in docker-compose.yml file for debugging mode and you are free to change commands inside:
@@ -231,8 +231,6 @@ On Production mode you have all the security headers and settings added to nginx
 # License
 MIT.
 
-# Todo
-- [ ] add pre commands
 
 # Bugs
 Feel free to let me know if something needs to be fixed. or even any features seems to be needed in this repo.
