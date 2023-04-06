@@ -42,7 +42,7 @@ jobs:
 
     # global environment for this job
     env: 
-      DB_HOST: 127.0.0.1
+      PGDB_HOST: 127.0.0.1
     
     # steps which it will go through for test
     steps:

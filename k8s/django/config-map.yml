@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: django-config
+  labels:
+    app: django-config
+data:
+  SECRET_KEY : "change_me"
+  DEBUG : "False"
+  ALLOWED_HOSTS : "*"
+  SITE_ID : "1"
+  PGDB_ENGINE : "django.db.backends.postgresql"
+  PGDB_NAME : "postgres"
+  PGDB_USER : "postgres"
+  PGDB_PASS : "postgres"
+  PGDB_HOST : "postgres"
+  PGDB_PORT : "5432"
+  ENABLE_WHITENOISE: "True"
