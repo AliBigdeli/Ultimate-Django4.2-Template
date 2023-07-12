@@ -1,5 +1,5 @@
 # general  modules
-django==4.2
+django==4.2.1
 Pillow
 djangorestframework
 
